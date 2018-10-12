@@ -1,2 +1,1 @@
-# Test
-Git refresher test
+This is just a test
